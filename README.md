@@ -1,6 +1,6 @@
 # Web Blog
 
-A blog and knowledge management system about web.
+A blog and knowledge management system about design.
 
 ## License
 
