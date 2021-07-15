@@ -56,10 +56,7 @@
 
 :bulb: 画板工具快捷键：`Shift + O`
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&page=11&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&page=11&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 调整画板大小：
 
@@ -69,12 +66,7 @@
 
   :key: 方法三：使用（选项栏）预设画板
 
-
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515112&page=10&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515112&page=10&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 修改画板名称：
 
@@ -88,8 +80,7 @@
 
 ### 复制画板
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157514923&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157514923&page=1&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 </div>
 
 
@@ -97,49 +88,30 @@
 
 :warning: 如果希望同时拷贝画板上的图稿，需要激活（选项栏）`移动/复制带画板的图稿`
 
-
-
 ### 导出画板
 
 可以选择性保存或导出单个/多个画板。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515044&page=5&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515044&page=5&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ### 删除画板
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515032&page=4&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515032&page=4&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 删除画板快捷键：（选择相应的画板）`Delete` 键，
 
 :warning: 删除画板时，不会删除画板上的图稿
 
-
-
 ## 导航
 
 对画板进行缩放和移动的操作。
 
-
-
 ### 缩放
 
 :bulb: 缩放工具快捷键：`Z`
-
-
-
 #### 任意缩放
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515252&page=19&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515252&page=19&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :key: 方法一 ：使用 `缩放工具` 通过点击画板进行任意梯度的缩放（默认是放大，按住 `Alt` 键再点击则为缩小）
 
@@ -161,13 +133,9 @@
 
 #### 特定缩放
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515269&page=20&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515269&page=20&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515269&page=20&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515269&page=20&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 将当前画板缩放至适应窗口：单击（属性面板）`画板` 中特定的画板名称
 
@@ -183,8 +151,6 @@
 
 :bulb: 抓手工具快捷键：按住 `Space`
 
-
-
 ## 选择
 
 常用的两种选择工具
@@ -198,17 +164,13 @@
 
 :bulb: 取消所有选择的快捷键：`Ctrl + Shift + A`
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515152&page=13&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515152&page=13&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :warning: 为了可以使用 `选择工具` 对形状进行调整，需要打开定界框，以显式对象四周的锚点
 
 ![定界框](./images/bounding-box.png)
 
 :key:（菜单栏）`视图` -> `显示定界框`
-
-
 
 ### 选择多个元素
 
@@ -224,8 +186,6 @@
 
 * 通过反向选择当前选中元素余下的元素（整个文件内，包括其他画布的元素）：（菜单栏）`选择` -> `反向`
 
-
-
 ### 锁定元素
 
 通过锁定元素，如背景，避免操作过程中被误选中。
@@ -236,9 +196,7 @@
 
 :bell: 若图层过多，可在选定元素后，点击（属性面板）`图层` 下方的搜索按钮 :mag_right: 快速定位
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515088&page=8&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515088&page=8&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 锁定选中元素的快捷键：`Ctrl + 2`
 
@@ -261,11 +219,7 @@
 * 对齐关键对象（可以设置间距），如果选择了对齐关键对象后，关键对象会显示为深蓝色，如果需要更改参考对象，此时可以点击画布中任一选中的对象将其作为关键对象。
 * 对齐画板
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515293&page=21&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515293&page=21&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ## 元素排列
 
@@ -285,8 +239,7 @@
 
 :key: 方法二：在（属性面板）手动拖拽元素（分组）调整它在图层中的相对顺序
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220777547&page=23&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220777547&page=23&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
+
 
 

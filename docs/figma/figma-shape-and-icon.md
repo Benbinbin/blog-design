@@ -25,45 +25,24 @@
 
 使用具有多个形状的布尔构建的图标具有复杂的多层，可以进行扁平处理 `Flatten Selection` 将图标简化为只有一个图层的形状，方便进行其他操作。
 
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048824&page=20&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048824&page=20&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 扁平选择图层的快捷键：`Ctrl + E`
-
-
 
 ## 常用图标
 
 * 关闭图标
 
-
-  <div class='video-wrapper'>
-  <iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048858&page=21&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-  </div>
-
+  <iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048858&page=21&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 齿轮图标 COG
 
-
-  <div class='video-wrapper'>
-  <iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048880&page=22&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-  </div>
-
+  <iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048880&page=22&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 播放图标
 
-
-  <div class='video-wrapper'>
-  <iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048913&page=23&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-  </div>
-
+  <iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048913&page=23&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 箭头图标
 
-
-  <div class='video-wrapper'>
-  <iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048920&page=24&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-  </div>
+  <iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162048920&page=24&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>

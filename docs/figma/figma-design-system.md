@@ -28,9 +28,7 @@
 
 ### 网格样式
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382864&page=6&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382864&page=6&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 点击（属性面板）`Layout Grid` 的 4 点图标将当前框架 `Frame` 所使用的布局网格创建为网格样式。
 
@@ -38,9 +36,7 @@
 
 ### 颜色样式
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382888&page=7&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382888&page=7&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 点击（属性面板）`Fill` 或 `Stroke` 的 4 点图标将当前元素所使用的填充颜色或边框颜色创建为颜色样式。
 
@@ -53,17 +49,13 @@
 
 渐变色也可以作为 Figma 预设的颜色样式
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382895&page=8&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382895&page=8&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ### 字体样式
 
 一般包含2类字体样式：页首与正文文本。每种类型中包含各种细分场景下的文字样式。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382902&page=9&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382902&page=9&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 点击（属性面板）`Text` 的 4 点图标将当前文本所使用的字体属性创建为字体样式。
 
@@ -73,9 +65,7 @@
 
 Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样式。这对创建按钮阴影、模糊设置甚至是默认的内容（如符号和背景）都非常有用。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382931&page=10&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382931&page=10&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 点击（属性面板）`Effects` 的 4 点图标将当前元素所使用的图层效果创建为效果样式。
 
@@ -83,9 +73,7 @@ Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样�
 
 一般资源样式指的是预设的头像 Avatar 和背景图像 Background 资源。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382939&page=11&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382939&page=11&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 点击（属性面板）`Fill` 的 4 点图标将当前填充的图片创建为颜色样式。
 
@@ -105,9 +93,7 @@ Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样�
 
 组件 `Component` 至少需要 2 个图层，也可选择多个图层来创建组件，将多个图层分组 `Group` 后点击工具栏的钻石形图标将其转变为组件。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915460&page=15&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915460&page=15&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 第一次创建组件称为主组件 Master Component，由 4 颗钻石图标表示；通过复制创建的组件称为副组件 ，又称为组件实体 Component Instance，由一颗菱形表示。这两种有不同的行为模式。
 
@@ -121,9 +107,7 @@ Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样�
 * 副组件支持**属性重写**，即可以修改内容（文本）和样式
 * 只有主组件可以修改结构，如图层的 **位置** 与 **组成元素**；而副本只能修改内容和样式属性。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915626&page=16&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915626&page=16&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :warning: 通过分离实体 `Detach Instance` 可以将组件取消，即将图层还原为普通的元素。这样就可以对图层的结构或其他属性进行修改，然后再进行组件化，以快速地创建外形类似的多种不同主组件。
 
@@ -135,22 +119,17 @@ Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样�
 
 :warning: 主组件无法嵌套进其他组件中，只能通过复制创建副组件再将其拖拽进其他组件中形成嵌套结构。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915676&page=17&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915676&page=17&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ### 发布并使用组件
 
 免费版无法将组件发布到库 `Library`（只能共享预设样式）
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915703&page=18&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915703&page=18&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 若为免费版用户可以手动将设计体系中的组件复制各个文件中，并在左侧（图层面板）`Assets` 标签页中使用 `Local components` 找到相应的组件进行复用；或将设计体系创建于一个页面 `Page` 中，而所有的设计工作分别在其他页面（同一个文件）中进行，但是可能造成文件过大。
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915763&page=19&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161915763&page=19&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :warning: Figma 付费版本才支持发布组件
 
@@ -160,14 +139,10 @@ Figma 可以将效果（例如阴影、描边、模糊及图像）储存为样�
 
 如果需要在其他项目或文件中使用设计体系，需要将其发布 `Publish` 以共享使用；而在其他项目文件或团队成员中需要**激活**相应库。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382953&page=12&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382953&page=12&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 当设计体系更新后，需要发布更新；团队其他成员（或在其他项目使用该库）则需要接受更新 `Updates` 以保持团队中设计体系的统一。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382970&page=13&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161382970&page=13&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ![更新库](./images/update-library.png)

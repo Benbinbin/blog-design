@@ -43,39 +43,25 @@ Adobe Illustrator 是行业标准矢量图形应用程序，矢量图的主要�
 
 选择常用的面板定制化一个适合自己的工作区，可以提升工作效率。根据所需，如排版、插画、字体设计等不同场景，定制化不同工作区。通过新建工作区来保存当前定制的工作区布局。
 
-<div class="video-wrapper">
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515002&page=3&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515002&page=3&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 通过 （菜单栏）`编辑` -> `我的设置` -> `导出设置...` 将定制化工作区设置导出到电脑本地保存。
 
 类似地，可以将定制工具栏。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157514929&page=2&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157514929&page=2&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :warning: 工具栏预设存档文件[所在的（Window）目录](http://vektorgarten.de/illustrator-settings.html#5)<!-- {target="_blank"} -->为：`<OSDisk>\Users\<username>\AppData\Roaming\Adobe\Adobe Illustrator <version number> Settings\<locale> (e.g.  en_US)\x64\Tools Panel Presets`，可将该文件进行备份。
 
-
-
 ![工具面板预设文件](./images/toolbar-presets.png)
-
-
 
 ### 定制快捷键
 
 创建专属快捷键以实现更高效的操作。
 
- <div class='video-wrapper'>
-	<iframe src="//player.bilibili.com/player.html?aid=92256512&cid=157515079&page=7&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157515079&page=7&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 推荐将常用的操作快捷键设置为单键（而非组合键），如还原快捷键设置为 `F1`，重做快捷键设置为 `F2`。
-
-
 
 ### 键盘增量
 

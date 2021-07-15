@@ -111,16 +111,11 @@ Figma 支持以链接的方式将设计文件分享给他人，他人可以通�
 
 Figma 还支持公共嵌入 Public embed，即将设计文件嵌入到网页中（需要选择 `Anyone with the link` 分享模式，即任何人都可以通过链接浏览文稿），网页就可以实时显示当前最新版本的设计文稿。
 
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162480578&page=33&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162480578&page=33&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 点击 `Get Embed code` 获取嵌入代码，并添加到 HTML 文件中进行展示。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162480599&page=34&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162480599&page=34&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 除了可以分享整个设计文稿，还可以分享特定的框架 `Frame`：选中该框架后点击 `Share` 分享按钮，并在生成嵌入代码前勾选 :ballot_box_with_check: `Link to selected frame` 选项。
 

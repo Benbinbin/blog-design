@@ -77,9 +77,7 @@ Figma 提供智能参考线（红色）辅助排版。
 
 调整网页原型的宽度时元素并不会响应式地进行缩放以适应页面，这是因为默认情况下元素被约束为 **顶部** 与 **左侧** 的距离固定。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161462436&page=14&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=161462436&page=14&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 为了实现响应式设计，应该将元素的约束调整为合适方式。常见的约束条件：
 
@@ -94,9 +92,7 @@ Figma 提供智能参考线（红色）辅助排版。
 
 Figma 可以查看选中元素与邻近元素的距离。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917832&page=3&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917832&page=3&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 参考参考距离：按下 `Alt` 键，鼠标悬停在邻近参照元素上
 
@@ -110,9 +106,7 @@ Figma 可以查看选中元素与邻近元素的距离。
 
 使用移动工具选择并操作元素，可以移动选中的元素，还可以操作其锚点以调整元素的外观。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917822&page=2&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917822&page=2&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 当多个元素分组后，点击选择默认选中整个分组，可按住 `Ctrl` 以选中鼠标悬停所指的单个元素（无论该元素是否在编组内）。
 
@@ -126,9 +120,7 @@ Figma 可以查看选中元素与邻近元素的距离。
 
 缩放工具不仅可以缩放宽度形状，而且还可缩放其属性，如圆角半径、阴影等，这对于适配多屏幕的响应式设计很重要。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917841&page=4&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917841&page=4&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 缩放工具的快捷键：`K`
 
@@ -148,9 +140,7 @@ Figma 提供不同的形状工具可以创建不同的基本形状。
 
 :bulb: 调整形状时按住 `Alt` 键可基于中心处进行缩放
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917855&page=5&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917855&page=5&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 形状的外观可以在画布中拖拽锚点进行调整，还可以在属性面板中设置相应的参数，而且支持数学运算（包括百分数值）和在属性值输入框处**拖动**以快速增加/减少数值。
 
@@ -178,9 +168,7 @@ Figma 提供不同的形状工具可以创建不同的基本形状。
 
 文字工具用于输入文本，按 `Ctrl + Enter` 或 `Esc` 键结束文字输入。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917807&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=160917807&page=1&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 通过回车键 `Enter` 实现多行文本输入，此外还可以对于长文字的**文本框限制大小**以实现自动换行。
 
@@ -206,9 +194,7 @@ Figma 提供不同的形状工具可以创建不同的基本形状。
 
 在（属性面板）`Code` 标签页可以查看选中元素的样式列表或所对应的代码。
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162270064&page=30&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=94259627&bvid=BV1sE411p7br&cid=162270064&page=30&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bulb: 通过下拉菜单还可以查看该 UI 在 iOS 或 Android 系统所对应代码。
 

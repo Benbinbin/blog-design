@@ -2,19 +2,13 @@
 
 一些可以提高效率的设置和操作小技巧。
 
-
-
 ## 保存视图
 
 可以保存当前的视图，以便可快速定位到特定的图稿区域。
 
 :key: 保存当前视图：（菜单栏）`视图` -> `新建视图...`
 
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=157515177&page=14&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=157515177&page=14&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ## 保存选择对象
 
@@ -24,9 +18,7 @@
 
 * 加载已保存的选区：（菜单栏）`选择` -> 点击已保存的选区名称
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=157515136&page=12&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=157515136&page=12&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 ## 选择相似
 
@@ -64,8 +56,6 @@
 
 ![隔离模式](./images/isolation-mode.png)
 
-
-
 ## 元素分图层
 
 将形状分类放置不同图层上并取合适的名称，可批量处理该图层中的元素，如利用图层的 `隐藏`、`锁定` 功能对该图层的所有元素进行隐藏或锁定；调整图层的相对位置，可以快速调整该图层的所有元素在画板中的叠放次序。
@@ -78,9 +68,7 @@
 
 :key: 方法二：选中元素，此时在（属性面板）`图层` 中被选中的元素所在的图层后方会有一个**彩色小点标记**，将图层最小化，即未展开显示其中的元素，拖拽该图层后的彩色小点（表示选中的元素）到新建图层上，即可将元素移到新图层上
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844089&page=27&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844089&page=27&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 :bell:  若图层过多，可在选定元素后，点击（属性面板）`图层` 下方的搜索按钮 :mag_right: 快速定位
 
@@ -111,16 +99,11 @@ Illustrator 提供 网格系统 和 参考线 辅助进行精准设计。
 
 :bulb: 开启对齐网格的快捷键：`Shift + Ctrl + "`
 
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844053&page=25&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
-
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844053&page=25&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 可以对网格布局的间隔、线条样式、颜色等进行设置：（菜单栏）`编辑` -> `首选项` -> `参考线和网格...`
 
 ![设置网格样式](./images/20191212203748866_12530.png)
-
-
 
 ### 参考线
 
@@ -130,10 +113,7 @@ Illustrator 提供 网格系统 和 参考线 辅助进行精准设计。
 
 :bulb: 显示/隐藏标尺的快捷键 `Ctrl + R`
 
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844066&page=26&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844066&page=26&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 如果参考线是**锁定状态**（创建后无法更改参考线的位置），可以通过（菜单栏）`视图` -> `参考线` -> `解锁参考线` 修改参考线状态，参考线解锁后，选择需要设置的参考线，可以通过拖动其定位，或修改（选项栏） `x` 和 `Y` 值以更精准地设置参考线定位。
 
@@ -153,10 +133,7 @@ Illustrator 提供 网格系统 和 参考线 辅助进行精准设计。
 
 标尺度量方式和零点位置都可以进行设置
 
-
-<div class='video-wrapper'>
-<iframe src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844032&page=24&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&bvid=BV1S7411N7WV&cid=220844032&page=24&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
 
 * 在标尺处鼠标右键点击，在弹出菜单中可以切换 `更改为全局标尺` 或 `更改为画板标尺` 模式
   * **画板标尺**：每个画板都有一个独立的标尺（推荐）
