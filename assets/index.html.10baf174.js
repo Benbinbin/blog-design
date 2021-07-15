@@ -1,0 +1,1 @@
+const t={key:"v-49d2348b",path:"/postslist/illustrator/",title:"",lang:"zh-CN",frontmatter:{layout:"ClassificationLayout",classification:"illustrator"},excerpt:"",headers:[],filePathRelative:null,git:{},postsList:{posts:[],tags:[]}};export{t as data};

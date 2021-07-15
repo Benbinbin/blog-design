@@ -1,0 +1,1 @@
+const e={key:"v-79d76ab3",path:"/bridge/%E8%AE%BE%E7%BD%AE%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%BC%8F.html",title:"设置色彩模式",lang:"zh-CN",frontmatter:{createdTime:1625547881e3,updatedTime:1625547881e3,tags:["bridge"]},excerpt:"",headers:[],filePathRelative:"bridge/设置色彩模式.md",git:{updatedTime:1625547881e3}};export{e as data};

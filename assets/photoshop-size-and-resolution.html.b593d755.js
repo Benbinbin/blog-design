@@ -1,0 +1,1 @@
+const e={key:"v-33f90eb0",path:"/photoshop/photoshop-size-and-resolution.html",title:"图片尺寸与分辨率",lang:"zh-CN",frontmatter:{createdTime:1625547881e3,updatedTime:1625547881e3},excerpt:"",headers:[],filePathRelative:"photoshop/photoshop-size-and-resolution.md",git:{updatedTime:1625547881e3}};export{e as data};

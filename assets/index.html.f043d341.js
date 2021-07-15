@@ -1,0 +1,1 @@
+const t={key:"v-5bb20b76",path:"/postslist/all/",title:"",lang:"zh-CN",frontmatter:{layout:"ClassificationLayout",classification:"all"},excerpt:"",headers:[],filePathRelative:null,git:{},postsList:{posts:[],tags:[]}};export{t as data};

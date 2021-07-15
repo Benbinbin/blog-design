@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <link rel="icon" href="/blog-design/images/favicon.ico"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.5/dist/katex.min.css"><title>进阶操作 | Blog</title><meta name="description" content="A blog and knowledge management system about design."><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="generator" content="VuePress 2.0.0-beta.22">
+    <link rel="modulepreload" href="/blog-design/assets/app.ab5650d0.js"><link rel="modulepreload" href="/blog-design/assets/figma-advance.html.8dbaee15.js"><link rel="modulepreload" href="/blog-design/assets/fix-position-when-scrolling.b22b4b75.js"><link rel="modulepreload" href="/blog-design/assets/figma-advance.html.9ef04bd5.js">
+    <link rel="stylesheet" href="/blog-design/assets/style.6b07705c.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="min-h-screen flex flex-col"><nav class="px-4 sm:px-8 py-2 flex justify-between items-center sticky top-0 z-30 bg-white"><div class="left flex items-center space-x-0.5"><!--[--><button class="
+            catelog-btn
+            p-2
+            select-none
+            text-sm
+            font-bold
+            hover:text-gray-900
+            rounded-md
+            lg:hidden
+          " class="text-gray-400 hover:bg-gray-100 catelog-btn
+            p-2
+            select-none
+            text-sm
+            font-bold
+            hover:text-gray-900
+            rounded-md
+            lg:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M5 11.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm-3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"></path></svg></button><!--]--><a class="avatar p-2 hover:bg-gray-100 rounded-md" href="/blog-design/#"><img src="/blog-design/images/avatar.png" alt="avatar" class="w-10 h-10 rounded-full"></a></div><div class="right hidden sm:flex items-center space-x-0.5"><!--[--><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">All</button><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">Color</button><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">Photoshop</button><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">Illustrator</button><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">Figma</button><button class="
+          p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md
+        " class="text-gray-400 p-2
+          select-none
+          text-sm
+          font-bold
+          hover:text-gray-900
+          hover:bg-gray-100
+          rounded-md">Bridge</button><!--]--><!--[--><button class="
+            p-2
+            select-none
+            text-sm
+            font-bold
+            hover:text-gray-900
+            rounded-md
+            hidden
+            lg:block
+          " class="text-gray-900 bg-gray-100 hover:bg-gray-200 p-2
+            select-none
+            text-sm
+            font-bold
+            hover:text-gray-900
+            rounded-md
+            hidden
+            lg:block"><svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M5 11.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm-3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm0 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"></path></svg></button><!--]--></div><div class="more-container sm:hidden relative"><button style="" class="p-2 select-none hover:bg-gray-100 rounded-md text-gray-500"><svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="currentColor" viewBox="0 0 16 16"><path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"></path></svg></button><button style="display:none;" class="p-2 select-none hover:bg-gray-100 rounded-md text-red-400 hover:text-red-500"><svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="currentColor" viewBox="0 0 16 16"><path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path></svg></button><div style="display:none;" class="
+          more-modal
+          p-2
+          absolute
+          top-10
+          right-0
+          z-10
+          flex flex-col
+          space-y-2
+          bg-gray-100
+          rounded-md
+          opacity-90
+        "><!--[--><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">All</button><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">Color</button><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">Photoshop</button><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">Illustrator</button><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">Figma</button><button class="
+            px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md
+          " class="text-gray-400 px-4
+            py-2
+            select-none
+            text-sm text-center
+            font-bold
+            hover:text-gray-900
+            hover:bg-gray-200
+            rounded-md">Bridge</button><!--]--></div></div></nav><div class="relative flex-grow"><div class="theme-container no-navbar no-sidebar"><!----><div class="sidebar-mask"></div><aside class="sidebar"><!----><!--[--><!--]--><ul class="sidebar-links"><!--[--><!--]--></ul><!--[--><!--]--></aside><main class="page"><!--[--><!--]--><div class="theme-default-content"><!--[--><h1 id="进阶操作" tabindex="-1"><a class="header-anchor" href="#进阶操作" aria-hidden="true">#</a> 进阶操作</h1><h2 id="遮罩" tabindex="-1"><a class="header-anchor" href="#遮罩" aria-hidden="true">#</a> 遮罩</h2><p>将一个形状设置为遮罩 <code>Use as Mask</code>，则形状边界框外的区域都会被遮挡不显示，一般用于以确保图像不会超过特定的区域，类似于对图片进行了裁剪。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162270076&amp;page=31&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><p>⚠️ 图层相对顺序影响遮罩作用，可将需要遮罩的图层分组，并将遮罩放置组内的底层。</p><p>💡 用作遮罩的快捷键：<code>Ctrl + Alt + M</code></p><h2 id="切片" tabindex="-1"><a class="header-anchor" href="#切片" aria-hidden="true">#</a> 切片</h2><p>使用切片工具 <code>Slice</code> 创建一个区域（希望捕捉图像），类似于截图，可以在导出时选择特定的切片图层以导出该区域的内容。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162270099&amp;page=32&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><h2 id="矢量网络" tabindex="-1"><a class="header-anchor" href="#矢量网络" aria-hidden="true">#</a> 矢量网络</h2><p>在 Figma 中进行<strong>矢量绘图</strong>不需要将路径一一连接起来（即路径是不需要封闭起来），而只需要创建网络状的单点连接。</p><h3 id="钢笔工具" tabindex="-1"><a class="header-anchor" href="#钢笔工具" aria-hidden="true">#</a> 钢笔工具</h3><p>用以选择或添加锚点，连续创建的锚点相互连接形成路径（路径不必闭合）。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162187549&amp;page=25&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><p>💡 钢笔工具的快捷键：<code>P</code></p><p>💡 按 <code>Shift</code> 可以基于上一个锚点的特定方向（90°或45°方向上）建立锚点</p><p>💡 按住 <code>Shift</code> 并通过上下方向键可以调整当前锚点的位置（增量为 10 个网格）</p><h3 id="铅笔工具" tabindex="-1"><a class="header-anchor" href="#铅笔工具" aria-hidden="true">#</a> 铅笔工具</h3><p>铅笔工具一般用以绘制弯曲的路径，软件会让路径会变平滑并成为矢量图。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162187608&amp;page=26&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><h3 id="贝塞尔曲线" tabindex="-1"><a class="header-anchor" href="#贝塞尔曲线" aria-hidden="true">#</a> 贝塞尔曲线</h3><p>矢量图由点组成，除了直线还可以并通过贝塞尔曲线将点连接。</p><h4 id="创建曲线" tabindex="-1"><a class="header-anchor" href="#创建曲线" aria-hidden="true">#</a> 创建曲线</h4><p>使用钢笔工具 <code>Pen</code> 在绘制路径时，点击确定锚点位置后按住左键不放，并通过左右拖拽即可创建贝塞尔曲线。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162187633&amp;page=27&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><h4 id="调整曲线" tabindex="-1"><a class="header-anchor" href="#调整曲线" aria-hidden="true">#</a> 调整曲线</h4><p>通过双击元素或选择元素后按 <code>Enter</code> 进入编辑模式，曲线的锚点会出现句柄，可调整曲线的角度。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162187647&amp;page=29&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><p>💡 句柄的编辑模式可以在（属性面板）编辑镜像 <code>Vector</code> 选项中进行设置</p><ul><li><strong>Mirror Angle and Length</strong> 调整为镜像的，且包括角度与长度</li><li><strong>No Mirroring</strong> 调整为非镜像的</li><li><strong>Mirror Angle</strong> 调整为镜像的，且只能调整角度</li></ul><p>💡 在编辑模式下使用曲线工具 <code>Bend Tool</code> 可以将已有的锚点在直线锚点与曲线锚点之间切换。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162187640&amp;page=28&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><h2 id="原型制作" tabindex="-1"><a class="header-anchor" href="#原型制作" aria-hidden="true">#</a> 原型制作</h2><p>切换到（属性面板）<code>Prototype</code> 标签页进行原型制作，Figma 支持链接跳转、过渡动画、滚动框架、鼠标交互等多种原型效果。</p><p><img src="/blog-design/assets/prototype-preset.6b35699f.png" alt="原型预设"></p><p>原型的预设配置包括：</p><ul><li>演示开始的框架</li><li>演示的背景颜色</li><li>演示的设备大小</li></ul><h3 id="创建链接" tabindex="-1"><a class="header-anchor" href="#创建链接" aria-hidden="true">#</a> 创建链接</h3><p>任何图层或分组都可连接到另一个框架中。选中图层右侧会出现一个蓝色圆圈，拖拽这个圆圈创建连线，即可创建一个元素之间跳转的交互。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162480615&amp;page=35&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><p>💡 框架中的元素不可以相互连接，可以将元素创建为一个组件 <code>Compoment</code> 并将主组件放置到框架外，创建指向框架内其他元素的链接，而框架内的元素使用对应的实例/副组件。</p><p>💡 使用组件的交互设置也是可以继承的，一般将导航栏设置为组件，并在各框架中添加其实例以快速批量地构建页面直接的链接。</p><h3 id="交互设置" tabindex="-1"><a class="header-anchor" href="#交互设置" aria-hidden="true">#</a> 交互设置</h3><p>交互 <code>Interaction</code> 的默认触发类型是点击 <code>On Click</code>，点击后的默认行为是将页面切换 <code>Navigate To</code> 到指定的框架，Figma 还支持其他交互类型，在（属性面板） <code>Prototype</code> 标签栏中选择其他的交互方式和行为。</p><p><img src="/blog-design/assets/prototype-interaction.3d4f20a6.png" alt="原型交互"></p><p>常见的交互方式：</p><ul><li><code>On Click</code> （桌面端）鼠标点击或（移动端）触控</li><li><code>On Drag</code> 拖拽</li><li><code>While Hovering</code> 鼠标悬停</li><li><code>While Pressing</code> （桌面端）单击鼠标或触控板或（移动端）直接按下对象时才会显示目标框架； 释放后将再次显示原始框架（非常适合模仿临时互动或状态变化，如长按查看预览，或导航下拉菜单）</li></ul><p>常见的行为：</p><ul><li><code>Navigate To</code> 切换到指定的框架</li><li><code>Open Overlay</code> 弹窗显示（适合实现 <code>Modal</code> 弹出式模态框效果）</li><li><code>Back</code> 返回上一个页面</li></ul><h3 id="动画" tabindex="-1"><a class="header-anchor" href="#动画" aria-hidden="true">#</a> 动画</h3><p>可以对切换页面时的动画进行设置，如切换方式，切换方向、动效时长等。</p><p><img src="/blog-design/assets/prototype-animation.34e19231.png" alt="原型动画"></p><h3 id="滚动时的固定元素" tabindex="-1"><a class="header-anchor" href="#滚动时的固定元素" aria-hidden="true">#</a> 滚动时的固定元素</h3><p>将元素进行约束 <code>Fix position when scrolling</code> 在演示页面滚动时，该元素可以固定不动，一般将导航栏设置为固定元素。</p><p><img src="/blog-design/assets/fix-position-when-scrolling.1450abf6.png" alt="滚动时固定位置"></p><h3 id="分享" tabindex="-1"><a class="header-anchor" href="#分享" aria-hidden="true">#</a> 分享</h3><p>Figma 支持将原型预览分享或实时内嵌到网页中以实现在线演示。</p><iframe style="width:100%;aspect-ratio:16/9;" src="//player.bilibili.com/player.html?aid=94259627&amp;bvid=BV1sE411p7br&amp;cid=162480657&amp;page=36&amp;high_quality=1&amp;danmaku=0" allowfullscreen="true" loading="lazy"></iframe><p>💡 在 prototype 演示页面点击右上角蓝色的 <code>Share Prototype</code> 按钮获取分享链接或在线内嵌代码。</p><!--]--></div><footer class="page-meta"><!----><div class="meta-item last-updated"><span class="meta-item-label">更新时间: </span><span class="meta-item-info">2021/7/15 下午4:38:04</span></div><!----></footer><!----><!--[--><!--]--></main></div><div style="width:0px;" class="catalog-container absolute top-0 right-0 h-full hidden lg:block"><div class="headings-container sticky top-36" data-v-c28348e0><ul class="
+        max-w-max
+        m-2
+        pl-7
+        xl:pl-16
+        2xl:pl-20
+        py-4
+        opacity-50
+        hover:opacity-100
+        transition-all
+        duration-300
+      " data-v-c28348e0><!--[--><!--]--></ul></div></div><div style="display:none;" tabindex="0" class="
+          sidebar-container
+          fixed
+          inset-y-0
+          left-0
+          z-20
+          lg:hidden
+          opacity-10
+          hover:opacity-95
+        "><div class="headings-container
+      px-2
+      space-y-2
+      transition-all
+      duration-300 py-20" data-v-6eed9461><!--[--><!--]--></div></div></div><footer class="bg-gray-200 p-8 grid grid-cols-1 md:grid-cols-3 gap-4 items-center" data-v-2981188c><div class="flex justify-center md:justify-start items-center" data-v-2981188c><a class="p-2 hover:bg-gray-300 rounded-md" href="https://benbinbin.github.io/" target="_blank" data-v-2981188c><img src="/blog-design/images/avatar.png" alt="avatar" class="w-10 h-10 rounded-full" data-v-2981188c></a></div><div class="text-center space-y-0.5" data-v-2981188c><p class="text-sm text-gray-600" data-v-2981188c> ©2021 <span class="author" data-v-2981188c>Benbinbin</span>. All Right Reserved. </p><p class="text-xs text-center text-gray-400" data-v-2981188c> 除特殊说明外，本站的文章遵循 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank" class="text-blue-400" data-v-2981188c>CC-BY-SA-4.0</a> 协议 </p><p class="text-xs text-center text-gray-400" data-v-2981188c> 网站主题采用 <a href="https://github.com/Benbinbin/two-dishes-one-fish" target="_blank" class="text-blue-400" data-v-2981188c>Two Dishes One Fish</a></p></div><div class="
+        btn-container
+        flex
+        justify-center
+        md:justify-end
+        items-center
+        space-x-0.5
+      " data-v-2981188c><!--[--><a class="p-2 hover:bg-gray-300 rounded-md" href="mailto:benthomsonbin@gmail.com" target="" data-v-2981188c><img src="/blog-design/images/icons/email.svg" alt="email" class="w-auto h-6" data-v-2981188c></a><a class="p-2 hover:bg-gray-300 rounded-md" href="https://github.com/Benbinbin" target="_blank" data-v-2981188c><img src="/blog-design/images/icons/github.svg" alt="github" class="w-auto h-6" data-v-2981188c></a><a class="p-2 hover:bg-gray-300 rounded-md" href="https://juejin.cn/user/3175045314389278/posts" target="_blank" data-v-2981188c><img src="/blog-design/images/icons/juejin.svg" alt="juejin" class="w-auto h-6" data-v-2981188c></a><a class="p-2 hover:bg-gray-300 rounded-md" href="https://dribbble.com/BinBinDesign" target="_blank" data-v-2981188c><img src="/blog-design/images/icons/dribbble.svg" alt="dribbble" class="w-auto h-6" data-v-2981188c></a><a class="p-2 hover:bg-gray-300 rounded-md" href="https://twitter.com/Benbinbin_fun" target="_blank" data-v-2981188c><img src="/blog-design/images/icons/twitter.svg" alt="twitter" class="w-auto h-6" data-v-2981188c></a><a class="p-2 hover:bg-gray-300 rounded-md" href="https://weibo.com/binbindesign" target="_blank" data-v-2981188c><img src="/blog-design/images/icons/weibo.svg" alt="weibo" class="w-auto h-6" data-v-2981188c></a><!--]--></div></footer></div><!--]--></div>
+    <script type="module" src="/blog-design/assets/app.ab5650d0.js" defer></script>
+  </body>
+</html>

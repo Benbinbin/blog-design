@@ -1,0 +1,1 @@
+const t={key:"v-26a3bf24",path:"/postslist/figma/",title:"",lang:"zh-CN",frontmatter:{layout:"ClassificationLayout",classification:"figma"},excerpt:"",headers:[],filePathRelative:null,git:{},postsList:{posts:[],tags:[]}};export{t as data};

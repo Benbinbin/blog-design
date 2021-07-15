@@ -1,0 +1,1 @@
+const e={key:"v-66beca72",path:"/photoshop/photoshop-color-mode.html",title:"色彩模式",lang:"zh-CN",frontmatter:{createdTime:1625547881e3,updatedTime:1625547881e3},excerpt:"",headers:[{level:2,title:"切换色彩模式",slug:"切换色彩模式",children:[]}],filePathRelative:"photoshop/photoshop-color-mode.md",git:{updatedTime:1625547881e3}};export{e as data};
