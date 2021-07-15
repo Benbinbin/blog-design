@@ -81,7 +81,6 @@
 ### 复制画板
 
 <iframe style="width: 100%;aspect-ratio: 16/9;" src="//player.bilibili.com/player.html?aid=92256512&cid=157514923&page=1&high_quality=1&danmaku=0" allowfullscreen="true" loading="lazy"></iframe>
-</div>
 
 
 * 以复制副本的方式移动画板：移动画板时按住 `Alt` 键
@@ -201,8 +200,6 @@
 :bulb: 锁定选中元素的快捷键：`Ctrl + 2`
 
 :bulb: 全部解锁的快捷键：`Alt + Ctrl + 2`
-
-
 
 ## 对齐与分布
 选择（多个）对象后，选项栏会出现对齐（和分布模式）的可视化按钮。
